@@ -28,3 +28,7 @@
 img {
   max-height: 200px;
 }
+
+.altura{
+  min-height: 400px;
+}
